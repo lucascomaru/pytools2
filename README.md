@@ -3,7 +3,7 @@ Módulo para exemplificar construção de projetoS python no curso Pytools
 
 Nesse curso é ensinado como contribuir com projetos de código aberto
 
-SUportada versão 3 de Python
+Suportada versão 3 de Python
 
 [![Build Status](https://app.travis-ci.com/lucascomaru/pytools2.svg?branch=main)](https://app.travis-ci.com/lucascomaru/pytools2)
 
