@@ -1,10 +1,10 @@
 language: python
 version:
-  - 3.8
+  -3.8
 os:
-  -Linux
+  "linux"
 dist:
-  -xenial
+  "xenial"
 install:
   - pip install -r requirements-dev.txt
 script:
